@@ -1,6 +1,6 @@
-#Alexander Rollison 1001681800
+#Alexander Rollison
 #makefile for C++ program
-SRC1 = Code5_1001681800.cpp
+SRC1 = Code5.cpp
 SRC2 = TrickOrTreater.cpp
 SRC3 = House.cpp
 OBJ1 = $(SRC1:.cpp=.o)
