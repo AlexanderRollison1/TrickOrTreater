@@ -1,4 +1,3 @@
-// Coding Assignment 5 Template
 
 /* Add the needed includes */
 #include <iostream>
