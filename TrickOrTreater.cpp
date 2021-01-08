@@ -1,5 +1,3 @@
-// Trick or Treater Class Template
-
 #include <iostream>
 #include <mutex>
 #include <chrono>
